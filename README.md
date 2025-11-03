@@ -106,4 +106,4 @@ It helped the company understand employee habits, plan better, and improve hybri
 
 🖼️ Sample Dashboard Screenshot
 
-![Atliq Presence Insights Dashboard](your-dashboard-image.png)
+![Atliq Presence Insights Dashboard](https://raw.githubusercontent.com/kokoaung-da/HR-data-analysis/main/sample_dashboard_screenshot.png)
