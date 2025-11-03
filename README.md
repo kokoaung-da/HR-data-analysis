@@ -1,112 +1,94 @@
 # Atliq Presence Insights Dashboard
 
-🧭 Project Overview
+🎯 Goal
 
-This project is about understanding how employees at Atliq work — whether they come to the office, work from home, or take leave.
-The goal is to help the HR team and management make better decisions about attendance, hybrid work policy, and employee performance.
+The aim of this project is to study how often employees come to the office, work from home, or take leave.
+By looking at this data, I wanted to help the company understand attendance behavior and make better HR and work policy decisions.
 
-This dashboard was built using Power BI and shows key information from April to June 2022.
+----
 
-🎯 Objectives
+🧰 Tools Used
 
-  To study employee attendance patterns.
-  
-  To understand work-from-home (WFH) behavior.
-  
-  To track sick leave (SL) usage.
-  
-  To give useful insights for HR and team planning.
+Power BI – to create dashboard and charts
 
-🧰 Tools & Skills Used
+Excel / SQL – for data cleaning and preparing data
 
-  Power BI – for building dashboard and visuals
-  
-  Excel / CSV – for data cleaning and storage
-  
-  SQL – for data preparation and queries
-  
-  DAX Measures – for KPI calculation (Present %, WFH %, SL %)
-  
-  Data Visualization – line charts, tables, and filters
+DAX – to calculate important numbers like Present %, WFH %, and Sick Leave %
 
+📊 Main Numbers
+| Metric | Value	| Meaning |
+| Present % | 91.8%	| Employees working in office |
+| WFH %	| 10.0%	| Employees working from home |
+| SL %	| 1.1%	| Employees on sick leave |
 
-📈 Key KPIs
+----
 
-  KPI	Value	Meaning
-  Present %	91.8%	Average attendance rate
-  WFH %	10.0%	Employees working from home
-  SL %	1.1%	Employees on sick leave
+💡 Key Findings
 
-💡 Main Insights
+1. Good Overall Attendance
 
-**Overall Attendance**
+Most employees come to work regularly (91.8% present).
 
-  Employees are very regular — 91.8% presence on average.
-  
-  Only 1.1% sick leave, meaning good health and attendance.
-  
-  → Impact: Strong workforce reliability and good work discipline.
+Only 1.1% of days are sick leave — showing people are healthy and active.
 
-**Work-from-Home (WFH) Pattern**
+Impact: The company has a reliable and hardworking team.
 
-  Friday (13%) has the most WFH — people prefer to work from home before weekends.
-  
-  Monday (8.8%) has less WFH — most employees return to office after weekend.
-  
-  → Impact: Helps company plan hybrid work policy better.
+2. Work-from-Home Pattern
 
-**Day-of-Week Trend**
+Friday has the highest WFH (13%), meaning people prefer to work from home before the weekend.
 
-  Monday = Highest attendance (93.2%)
-  
-  Friday = Slightly lower (90.2%)
-  
-  Saturday & Sunday = 0% (weekend off)
-  
-  → Impact: Best time for meetings or teamwork is early in the week.
+Monday has less WFH (8.8%), meaning most people come to office to start the week.
 
-**Employee Performance**
+Impact: The company can use this information to plan a better hybrid work schedule.
 
-  Most employees are 85–100% present regularly.
-  
-  A few employees below 80% may need HR follow-up.
-  
-  → Impact: Helps HR identify and support low-attendance employees early.
+3. Day of Week Trend
 
-**Monthly Trend**
+Monday has the highest presence (93.2%).
 
-Attendance is stable from April to June.
+Friday is a bit lower (90.2%).
 
-WFH slowly increased, showing flexible work culture.
+Saturday and Sunday have 0% attendance (normal 5-day week).
 
-Sick leave rose slightly in late May–June (maybe seasonal illness).
+Impact: Best days for meetings or team work are Monday to Wednesday.
 
-→ Impact: HR can plan workforce and projects with this data.
+4. Employee Performance
 
-**Business Impact**
+Most employees have 85–100% presence – very consistent.
 
-- This dashboard helps the company to:
+Some employees (below 80%) may need support or discussion.
 
-- Track employee attendance in real time
+Impact: HR can find and help employees who are not attending regularly.
 
-- Manage hybrid work more effectively
+5. Monthly Trend
 
-- Identify absenteeism issues early
+Attendance stayed stable from April to June.
 
-- Improve planning and team productivity
+WFH increased slowly — more people are adapting to flexible work.
 
-**Key Takeaways**
+Sick leave went up a little in May–June, maybe because of seasonal sickness.
 
-  “This project turned simple attendance data into clear insights.
-  It helped the company understand employee habits, plan better, and improve hybrid work balance.”
+Impact: Helps company plan projects and manage staff during low attendance times.
 
-**Dashboard Features**
+----
 
-- Overall Attendance Summary
-- Trend by Date (Presence, WFH, Sick Leave)
-- Day-of-Week Analysis
-- Employee-Level Performance Table
-- Filter by Date Range
+✅ Results / Business Impact
+
+This dashboard helped Atliq’s HR and management to:
+
+Track attendance easily
+
+Improve hybrid (office + home) work policy
+
+Find attendance problems early
+
+Plan workforce better and keep productivity high
+
+----
+
+🌟 Main Takeaway
+
+“By turning attendance data into simple visuals, I helped the company understand employee habits, improve work-from-home balance, and support HR planning.”
+
 
 **Sample Dashboard Screenshot**
 
