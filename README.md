@@ -15,11 +15,14 @@ Excel / SQL – for data cleaning and preparing data
 
 DAX – to calculate important numbers like Present %, WFH %, and Sick Leave %
 
-📊 Main Numbers
-| Metric | Value	| Meaning |
-| Present % | 91.8%	| Employees working in office |
-| WFH %	| 10.0%	| Employees working from home |
-| SL %	| 1.1%	| Employees on sick leave |
+## 📊 Main Numbers
+
+| Metric | Value | Meaning |
+|---------|--------|---------|
+| Present % | 91.8% | Employees working in office |
+| WFH % | 10.0% | Employees working from home |
+| SL % | 1.1% | Employees on sick leave |
+
 
 ----
 
