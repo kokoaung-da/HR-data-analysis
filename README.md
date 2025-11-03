@@ -36,7 +36,7 @@ By looking at this data, I wanted to help the company understand attendance beha
 
 - Only 1.1% of days are sick leave — showing people are healthy and active.
 
-    *Impact: The company has a reliable and hardworking team.*
+  *Impact: The company has a reliable and hardworking team.*
 
 2. Work-from-Home Pattern
 
