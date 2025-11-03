@@ -89,6 +89,7 @@ Plan workforce better and keep productivity high
 
 “By turning attendance data into simple visuals, I helped the company understand employee habits, improve work-from-home balance, and support HR planning.”
 
+----
 
 **Sample Dashboard Screenshot**
 
