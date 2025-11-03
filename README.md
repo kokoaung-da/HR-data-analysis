@@ -29,13 +29,17 @@ DAX Measures – for KPI calculation (Present %, WFH %, SL %)
 
 Data Visualization – line charts, tables, and filters
 
+
 📈 Key KPIs
+
 KPI	Value	Meaning
 Present %	91.8%	Average attendance rate
 WFH %	10.0%	Employees working from home
 SL %	1.1%	Employees on sick leave
+
 💡 Main Insights
-1️⃣ Overall Attendance
+
+**Overall Attendance**
 
 Employees are very regular — 91.8% presence on average.
 
@@ -43,7 +47,7 @@ Only 1.1% sick leave, meaning good health and attendance.
 
 → Impact: Strong workforce reliability and good work discipline.
 
-2️⃣ Work-from-Home (WFH) Pattern
+**Work-from-Home (WFH) Pattern**
 
 Friday (13%) has the most WFH — people prefer to work from home before weekends.
 
@@ -51,7 +55,7 @@ Monday (8.8%) has less WFH — most employees return to office after weekend.
 
 → Impact: Helps company plan hybrid work policy better.
 
-3️⃣ Day-of-Week Trend
+**Day-of-Week Trend**
 
 Monday = Highest attendance (93.2%)
 
@@ -61,7 +65,7 @@ Saturday & Sunday = 0% (weekend off)
 
 → Impact: Best time for meetings or teamwork is early in the week.
 
-4️⃣ Employee Performance
+**Employee Performance**
 
 Most employees are 85–100% present regularly.
 
@@ -69,7 +73,7 @@ A few employees below 80% may need HR follow-up.
 
 → Impact: Helps HR identify and support low-attendance employees early.
 
-5️⃣ Monthly Trend
+**Monthly Trend**
 
 Attendance is stable from April to June.
 
@@ -79,31 +83,31 @@ Sick leave rose slightly in late May–June (maybe seasonal illness).
 
 → Impact: HR can plan workforce and projects with this data.
 
-🧩 Business Impact
+**Business Impact**
 
-This dashboard helps the company to:
+- This dashboard helps the company to:
 
-Track employee attendance in real time
+- Track employee attendance in real time
 
-Manage hybrid work more effectively
+- Manage hybrid work more effectively
 
-Identify absenteeism issues early
+- Identify absenteeism issues early
 
-Improve planning and team productivity
+- Improve planning and team productivity
 
-🌟 Key Takeaways
+**Key Takeaways**
 
 “This project turned simple attendance data into clear insights.
 It helped the company understand employee habits, plan better, and improve hybrid work balance.”
 
-📂 Dashboard Features
+**Dashboard Features**
 
-✅ Overall Attendance Summary
-✅ Trend by Date (Presence, WFH, Sick Leave)
-✅ Day-of-Week Analysis
-✅ Employee-Level Performance Table
-✅ Filter by Date Range
+- Overall Attendance Summary
+- Trend by Date (Presence, WFH, Sick Leave)
+- Day-of-Week Analysis
+- Employee-Level Performance Table
+- Filter by Date Range
 
-🖼️ Sample Dashboard Screenshot
+**Sample Dashboard Screenshot**
 
 ![Atliq Presence Insights Dashboard](https://raw.githubusercontent.com/kokoaung-da/HR-data-analysis/main/sample_dashboard_screenshot.png)
