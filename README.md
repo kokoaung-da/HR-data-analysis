@@ -15,7 +15,7 @@ Excel / SQL – for data cleaning and preparing data
 
 DAX – to calculate important numbers like Present %, WFH %, and Sick Leave %
 
-## 📊 Main Numbers
+📊 Main Numbers
 
 | Metric | Value | Meaning |
 |---------|--------|---------|
