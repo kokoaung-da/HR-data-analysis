@@ -96,6 +96,6 @@ Plan workforce better and keep productivity high
 
 ----
 
-**Sample Dashboard Screenshot**
+🖼️Sample Dashboard Screenshot
 
 ![Atliq Presence Insights Dashboard](https://raw.githubusercontent.com/kokoaung-da/HR-data-analysis/main/sample_dashboard_screenshot.png)
