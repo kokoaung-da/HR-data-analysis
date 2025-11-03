@@ -9,11 +9,11 @@ By looking at this data, I wanted to help the company understand attendance beha
 
 🧰 Tools Used
 
-Power BI – to create dashboard and charts
+- Power BI – to create dashboard and charts
 
-Excel PowerQuery – for data cleaning and preparing data
+- Excel PowerQuery – for data cleaning and preparing data
 
-DAX – to calculate important numbers like Present %, WFH %, and Sick Leave %
+- DAX – to calculate important numbers like Present %, WFH %, and Sick Leave %
 
 ----
 
@@ -32,47 +32,47 @@ DAX – to calculate important numbers like Present %, WFH %, and Sick Leave %
 
 1. Good Overall Attendance
 
-Most employees come to work regularly (91.8% present).
+- Most employees come to work regularly (91.8% present).
 
-Only 1.1% of days are sick leave — showing people are healthy and active.
+- Only 1.1% of days are sick leave — showing people are healthy and active.
 
-Impact: The company has a reliable and hardworking team.
+*Impact: The company has a reliable and hardworking team.*
 
 2. Work-from-Home Pattern
 
-Friday has the highest WFH (13%), meaning people prefer to work from home before the weekend.
+- Friday has the highest WFH (13%), meaning people prefer to work from home before the weekend.
 
-Monday has less WFH (8.8%), meaning most people come to office to start the week.
+- Monday has less WFH (8.8%), meaning most people come to office to start the week.
 
-Impact: The company can use this information to plan a better hybrid work schedule.
+*Impact: The company can use this information to plan a better hybrid work schedule.*
 
 3. Day of Week Trend
 
-Monday has the highest presence (93.2%).
+- Monday has the highest presence (93.2%).
 
-Friday is a bit lower (90.2%).
+- Friday is a bit lower (90.2%).
 
-Saturday and Sunday have 0% attendance (normal 5-day week).
+- Saturday and Sunday have 0% attendance (normal 5-day week).
 
-Impact: Best days for meetings or team work are Monday to Wednesday.
+*Impact: Best days for meetings or team work are Monday to Wednesday.*
 
 4. Employee Performance
 
-Most employees have 85–100% presence – very consistent.
+- Most employees have 85–100% presence – very consistent.
 
-Some employees (below 80%) may need support or discussion.
+- Some employees (below 80%) may need support or discussion.
 
-Impact: HR can find and help employees who are not attending regularly.
+*Impact: HR can find and help employees who are not attending regularly.*
 
 5. Monthly Trend
 
-Attendance stayed stable from April to June.
+- Attendance stayed stable from April to June.
 
-WFH increased slowly — more people are adapting to flexible work.
+- WFH increased slowly — more people are adapting to flexible work.
 
-Sick leave went up a little in May–June, maybe because of seasonal sickness.
+- Sick leave went up a little in May–June, maybe because of seasonal sickness.
 
-Impact: Helps company plan projects and manage staff during low attendance times.
+*Impact: Helps company plan projects and manage staff during low attendance times.*
 
 ----
 
@@ -80,13 +80,13 @@ Impact: Helps company plan projects and manage staff during low attendance times
 
 This dashboard helped Atliq’s HR and management to:
 
-Track attendance easily
+- Track attendance easily
 
-Improve hybrid (office + home) work policy
+- Improve hybrid (office + home) work policy
 
-Find attendance problems early
+- Find attendance problems early
 
-Plan workforce better and keep productivity high
+- Plan workforce better and keep productivity high
 
 ----
 
