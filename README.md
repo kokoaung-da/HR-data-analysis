@@ -1,5 +1,10 @@
 # Atliq Presence Insights Dashboard
 
+🖼️Sample Dashboard Screenshot
+
+![Atliq Presence Insights Dashboard](https://raw.githubusercontent.com/kokoaung-da/HR-data-analysis/main/sample_dashboard_screenshot.png)
+
+
 🎯 Goal
 
 The aim of this project is to study how often employees come to the office, work from home, or take leave.
@@ -95,7 +100,3 @@ This dashboard helped Atliq’s HR and management to:
 “By turning attendance data into simple visuals, I helped the company understand employee habits, improve work-from-home balance, and support HR planning.”
 
 ----
-
-🖼️Sample Dashboard Screenshot
-
-![Atliq Presence Insights Dashboard](https://raw.githubusercontent.com/kokoaung-da/HR-data-analysis/main/sample_dashboard_screenshot.png)
