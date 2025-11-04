@@ -11,7 +11,7 @@ By looking at this data, I wanted to help the company understand attendance beha
 
 - Power BI – to create dashboard and charts
 
-- Excel PowerQuery – for data cleaning and preparing data
+- PowerQuery – for data cleaning and preparing data
 
 - DAX – to calculate important numbers like Present %, WFH %, and Sick Leave %
 
