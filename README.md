@@ -44,7 +44,7 @@ By looking at this data, I wanted to help the company understand attendance beha
 
 - Monday has less WFH (8.8%), meaning most people come to office to start the week.
 
- *Impact: The company can use this information to plan a better hybrid work schedule.*
+  *Impact: The company can use this information to plan a better hybrid work schedule.*
 
 3. Day of Week Trend
 
@@ -54,7 +54,7 @@ By looking at this data, I wanted to help the company understand attendance beha
 
 - Saturday and Sunday have 0% attendance (normal 5-day week).
 
- *Impact: Best days for meetings or team work are Monday to Wednesday.*
+  *Impact: Best days for meetings or team work are Monday to Wednesday.*
 
 4. Employee Performance
 
@@ -62,7 +62,7 @@ By looking at this data, I wanted to help the company understand attendance beha
 
 - Some employees (below 80%) may need support or discussion.
 
- *Impact: HR can find and help employees who are not attending regularly.*
+  *Impact: HR can find and help employees who are not attending regularly.*
 
 5. Monthly Trend
 
@@ -72,7 +72,7 @@ By looking at this data, I wanted to help the company understand attendance beha
 
 - Sick leave went up a little in May–June, maybe because of seasonal sickness.
 
- *Impact: Helps company plan projects and manage staff during low attendance times.*
+  *Impact: Helps company plan projects and manage staff during low attendance times.*
 
 ----
 
