@@ -2,7 +2,7 @@
 
 🖼️Sample Dashboard Screenshot
 
-![Atliq Presence Insights Dashboard](https://raw.githubusercontent.com/kokoaung-da/HR-data-analysis/main/sample dashboard screenshot.png)
+![Atliq Presence Insights Dashboard](https://raw.githubusercontent.com/kokoaung-da/HR-data-analysis/main/sample_dashboard_screenshot.png)
 
 
 🎯 Goal
